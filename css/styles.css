@@ -119,6 +119,10 @@ img {
   height: 32px;
   position: relative;
 }
+.header-menu:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
 
 .header-menu .bar {
   display: inline-block;
