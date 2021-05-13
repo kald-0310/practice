@@ -120,8 +120,8 @@ img {
   position: relative;
 }
 .header-menu:hover {
-  opacity: 0.7;
   cursor: pointer;
+  opacity: 0.7;
 }
 
 .header-menu .bar {
