@@ -299,6 +299,7 @@ img {
   text-align-last: left;
   border: 1px dashed #2B2B2B;
   padding: 32px 40px 28px;
+  box-sizing: border-box;
 }
 
 .shop-information .info .address,
